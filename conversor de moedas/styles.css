@@ -1,0 +1,61 @@
+body{
+    background: black;
+    text-align: center;   
+}
+h1{
+    color: azure;
+    text-shadow: yellow 2px 1px 2px;
+    text-align: center; 
+    font-size: 40px;
+    font-family: "Roboto-mono", monospace;  
+}
+
+h2{
+    color: cyan;
+    -webkit-text-stroke: 0.5px;
+    text-align: center; 
+    font-size: 30px;     
+}
+
+p{
+    color: white;
+    font-size: 25px;
+    -webkit-text-stroke: 1px orangered;
+    font-family: algerian;
+}
+
+input{
+    border-radius: 5px;
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    margin: 12px;
+    padding: 6px;
+}
+
+.mark{
+    background-color: yellow;
+    color: white;
+    font-size: 25px;
+    text-shadow: green 2px 1px 2px;
+    text-align: center;        
+}
+
+.botão{
+    color: orangered;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: -webkit-linear-gradient(bottom,cyan,yellow);
+    border: 2px solid greenyellow;    
+    border-radius: 10px;
+}
+
+.valorConvertido{
+    color: yellow;
+}
+
+.out{
+    color: greenyellow;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
